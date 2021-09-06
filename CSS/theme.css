@@ -24,3 +24,17 @@ color: white;
 	justify-content: center;
 	margin: auto;
 }
+.button2 {
+font-family: Alfa Slab One;
+text-decoration: none;
+color: white;
+	background-color: #23272A;
+  border: 0px solid black;
+	border-radius: 1px;
+  height: 50px;
+	width: 200px;
+  display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: auto;
+}
